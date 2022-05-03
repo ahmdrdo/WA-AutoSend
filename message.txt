@@ -1,0 +1,7 @@
+Hello {name},
+
+This message was sent automatically using Selenium Python.
+Programmed by Ahmad Ridho.
+
+Cheers,
+AR
